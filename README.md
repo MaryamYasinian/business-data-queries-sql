@@ -1,2 +1,2 @@
 # business-data-queries-sql
-SQL practice queries using sample business databases (ConstructCo &amp; AdventureWorks2019)
+SQL practice queries using two business databases (ConstructCo &amp; AdventureWorks2019)
